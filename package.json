@@ -1,0 +1,20 @@
+{
+  "name": "api-wars",
+  "version": "0.0.1",
+  "description": "API Wars is supposed to be a benchmarking test for API frameworks and the APIs will have to be written in compliance with this API specification. ",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "swagger"
+  ],
+  "license": "Unlicense",
+  "private": true,
+  "dependencies": {
+    "connect": "^3.2.0",
+    "js-yaml": "^3.3.0",
+    "oas3-tools": "^2.0.2"
+  }
+}
