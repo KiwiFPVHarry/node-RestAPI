@@ -1,4 +1,4 @@
-This Node.js Rest API was generated form a OpenAPI3.0 yaml file
+This Node.js Rest API was generated from an OpenAPI3.0 yaml file
 
 To build the Dockerimage please run:
 docker build -t "your tag" .
